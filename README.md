@@ -1,5 +1,4 @@
 Snake Game in C++ - README
-
 Overview
 This is a simple implementation of the classic **Snake Game** in C++, where the player controls a snake that moves around a grid, eating food to grow longer while avoiding collisions with the walls and its own tail. The objective of the game is to score as many points as possible by eating the food, which spawns randomly on the grid. The game ends if the snake collides with the walls or its own tail.
 
