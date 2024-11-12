@@ -208,5 +208,5 @@ int main()
         // difficulty
         Sleep(dfc);
     }
-
     return 0;
+}
